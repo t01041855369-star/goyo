@@ -1,7 +1,9 @@
-package.json
+.vercel
+node_modules
 server.js
 start.cmd
 serve.json
 기획안.md
 소스.md
 *.jfif
+package.json
